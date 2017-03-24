@@ -15,6 +15,8 @@ Small [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter
 You can also use it as a module.
 
 ```python
+#!/usr/bin/env python
+
 import mindfuck
 
 code = """
