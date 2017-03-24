@@ -1,4 +1,4 @@
-# mindfuck
+# mindfuck [![Build Status on Linux](https://travis-ci.org/pradeepchhetri/mindfuck.svg?branch=master)](https://travis-ci.org/pradeepchhetri/mindfuck)
 
 Small [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter
 
